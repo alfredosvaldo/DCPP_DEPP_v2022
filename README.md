@@ -22,13 +22,15 @@ En este repositorio podrán encontrar el material preparado para las clases, tal
 
 :file_folder: [Clase semana 4: Variables Instrumentales](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Clases/Semana4)
 
-:file_folder: [Clase semana 5: Regresión Discontinua](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Clases/Semana5)
+:file_folder: [Clase semana 5: Regresión Discontinua](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Clases/Semana4)
 
-:file_folder: [Clase semana 6: Matching, aprendizaje de Máquina e Inferencia Causal](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Clases/Semana6)
+:file_folder: [Clase semana 6: DID](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Clases/Semana5)
 
 ---
 
 ### Talleres
+
+**DEJA TUS COMENTARIOS SOBRE LOS TALLERES AQUÍ:** https://forms.gle/Lzr4gHuDXXf6H9DSA
 
 :pushpin:	[Taller 1: Regresión Simple y Sesgo por variable omitida](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Talleres/Taller_1_RegSimple). **Fecha: 20-08-2022**
 
@@ -46,13 +48,26 @@ En este repositorio podrán encontrar el material preparado para las clases, tal
 
 - :bar_chart: [Datos](https://www.dropbox.com/sh/ninm1l4anzs437b/AADTtpFMykNGNhTDF4pYTAdJa?dl=0)
 
-:pushpin:	[Taller 5: Regresión discontinua]() **Fecha: 22-10-2022**
+:pushpin:	[Taller 5: Regresión discontinua](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Talleres/Taller_5_RD) **Fecha: 22-10-2022**
 
-- :bar_chart: [Datos]()
+- :bar_chart: [Datos](https://www.dropbox.com/sh/uxt1imaa5dl5fdu/AAC2VtvsS8HBiVykYwe1bwNSa?dl=0)
 
-:pushpin:	[Taller 6: Aprendizaje de Máquina e Inferencia]() **Fecha: 05-11-2022**
+:pushpin:	[Taller 6: DID & ML(inicial)](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Talleres/Taller_6_DD) **Fecha: 05-11-2022**
 
-- :bar_chart: [Datos]()
+- :bar_chart: [Datos](https://www.dropbox.com/sh/0yx4klcv876ghla/AABI9lK98SZoMA-gZHowF7Dua?dl=0)
+
+---
+
+### Material de apoyo trabajo final
+
+- :memo: [Guía Notas de Política Pública](https://github.com/JDConejeros/DCPP_DEPP_v2022/tree/main/Talleres/Extra_NP)
+
+---
+
+### Material Extra: Videos sesiones de los jueves
+
+Pueden acceder a los videos en el siguiente enlace [https://drive.google.com/drive/folders/1tEmrqjB9JKMmWkFppqaFyIxRky3DyUr_?usp=sharing](https://drive.google.com/drive/folders/1tEmrqjB9JKMmWkFppqaFyIxRky3DyUr_?usp=sharing)
+
 
 ---
 
